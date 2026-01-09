@@ -116,3 +116,5 @@ Highlighted underperforming and high-growth areas.
 Delivered actionable insights to support strategic decisions.
 
 Improved data quality and reporting efficiency.
+
+<img width="1457" height="812" alt="Customer Behaviour Dashboard" src="https://github.com/user-attachments/assets/04b683ef-5ca0-494c-8b80-71cfc687c9a3" />
