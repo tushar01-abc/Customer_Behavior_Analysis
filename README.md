@@ -1,6 +1,6 @@
-📊 Data Analytics Project – End-to-End Analysis & Dashboard
-📌 Overview
+#  📊 Data Analytics Project – End-to-End Analysis & Dashboard
 
+📌 Overview
 This project demonstrates an end-to-end data analytics workflow, covering data loading, exploration, cleaning, SQL-based analysis, visualization, and business reporting.
 The objective is to transform raw data into meaningful insights that support data-driven decision-making.
 
