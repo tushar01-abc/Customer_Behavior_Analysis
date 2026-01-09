@@ -1,46 +1,45 @@
 #  📊 Data Analytics Project – End-to-End Analysis & Dashboard
 
-#### 📌 Overview
+### 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow, covering data loading, exploration, cleaning, SQL-based analysis, visualization, and business reporting.
 The objective is to transform raw data into meaningful insights that support data-driven decision-making.
-
 The project simulates a real-world analytics environment by integrating Python, SQL databases, Power BI, and presentation tools.
 
-📂 Dataset
+### 📂 Dataset
 
 Source: (Public / Sample / Business Dataset)
-
 Format: CSV / Excel
-
 Size: Medium-scale structured dataset
-
 Contains information related to business metrics such as:
-
 Sales / Customers / Products / Performance indicators (customizable)
 
-🛠 Tools & Technologies
+### 🛠 Tools & Technologies : 
+1) Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+2) SQL (PostgreSQL / MySQL / SQL Server)
 
-SQL (PostgreSQL / MySQL / SQL Server)
 
-Power BI (Data modeling, DAX, dashboards)
+3)Power BI (Data modeling, DAX, dashboards)
 
-Gamma (AI-based presentation creation)
 
-Jupyter Notebook / VS Code
+4)Gamma (AI-based presentation creation)
 
-Microsoft Excel
 
-🔄 Project Workflow / Steps
-1️⃣ Data Loading
+5)Jupyter Notebook / VS Code
+
+
+6)Microsoft Excel
+
+ ### 🔄 Project Workflow / Steps
+#### 1️⃣ Data Loading
+
 
 Imported dataset using Python (Pandas).
 
 Verified schema, data types, and structure.
 
-2️⃣ Exploratory Data Analysis (EDA)
+#### 2️⃣ Exploratory Data Analysis (EDA)
 
 Analyzed distributions, trends, and relationships.
 
@@ -48,7 +47,7 @@ Identified missing values, outliers, and inconsistencies.
 
 Used visualizations for better understanding.
 
-3️⃣ Data Cleaning & Preprocessing
+#### 3️⃣ Data Cleaning & Preprocessing
 
 Handled missing and duplicate values.
 
@@ -56,7 +55,7 @@ Standardized column names and data formats.
 
 Prepared clean, analysis-ready data.
 
-4️⃣ SQL Analysis
+#### 4️⃣ SQL Analysis
 
 Loaded cleaned data into PostgreSQL / MySQL / SQL Server.
 
@@ -68,7 +67,7 @@ Identify trends and top-performing metrics
 
 Perform joins and calculations
 
-5️⃣ Power BI Dashboard
+#### 5️⃣ Power BI Dashboard
 
 Connected SQL/Python data to Power BI.
 
@@ -82,7 +81,7 @@ Charts and tables
 
 Created calculated measures using DAX.
 
-6️⃣ Reporting & Presentation
+#### 6️⃣ Reporting & Presentation
 
 Documented insights in a structured report.
 
@@ -96,7 +95,7 @@ Key findings
 
 Actionable recommendations
 
-📈 Dashboard Highlights
+#### 📈 Dashboard Highlights
 
 Interactive KPI tracking
 
@@ -108,7 +107,7 @@ User-friendly filters for deep analysis
 
 (Dashboard screenshots can be added here)
 
-✅ Results & Insights
+#### ✅ Results & Insights
 
 Identified key performance drivers and patterns.
 
